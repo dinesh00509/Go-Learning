@@ -1,2 +1,2 @@
 # Go-Learning
-learning implementing and trying implement something in GO
+learning and trying implement something in GO
